@@ -3,7 +3,7 @@
 ### I believe that everyone should have access to clean, fresh water.
 
 
-> First of all, it is necessary for survival to have clean water and safe food. Lots of homeless people are forced to take the risk of drinking dirty water because its the only water they have. As a result of this, lots of homeless people get sick or die. 
+> First of all, it is necessary for survival to have clean water and safe food. Lots of homeless people are forced to take the risk of drinking dirty water because it's the only water they have. As a result of this, lots of homeless people get sick or die. 
 
 
 > Second of all, I believe that all people should have the right to clean water. In my opinion, this should be a basic human right and not a privilege. In fact, in 2010, the United Nations decided that clean water is a basic human right.[^1]
