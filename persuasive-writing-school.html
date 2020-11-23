@@ -21,4 +21,8 @@ Unfortunately, the U.S. and 40 other countries opted out of this. In all of U.S.
 </li>
 </ol>
 </section>
-<form action="https://formspree.io/f/xjvpebqz" method="POST" > <label> Your email: <input type="text" name="_replyto"> </label> <br> <label> Your message: <textarea name="message"></textarea> </label> <br> <br> <button type="submit">Send</button> </form>
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  formbutton("create", {action: "https://formspree.io/f/xjvpebqz"})
+</script>
