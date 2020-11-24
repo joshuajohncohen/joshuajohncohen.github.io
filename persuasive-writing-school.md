@@ -12,7 +12,7 @@ Unfortunately, the U.S. and 40 other countries opted out of this. In all of U.S.
 
 
 1. Try to end racism; Get involved in grassroots movements such as the *Black Lives Matter* campaign. See [here](https://sites.google.com/a/owu.edu/nyc-environmental-racism/what-is-being-done-to-combat-environmental-racism) for more ideas to get involved in envorinmental justice locally here in NYC.
-2. Pass [legislation](https://www.congress.gov/bill/116th-congress/house-bill/5986/text) and enforce [laws](https://www.msn.com/en-us/news/us/civil-rights-enforcement-can-help-end-environmental-racism/ar-BB1b0ZSO?fbclid=IwAR3sRhDw8QXWoKj9CQpmmux2jHkW9zVOm90UGTZS-0_i_snY5XUXWJ4M038) to guarantee easy access to water for everyone; In the meantime give people Lifestraws
+2. Pass [legislation](https://www.congress.gov/bill/116th-congress/house-bill/5986/text) and enforce [laws](https://www.msn.com/en-us/news/us/civil-rights-enforcement-can-help-end-environmental-racism/ar-BB1b0ZSO?fbclid=IwAR3sRhDw8QXWoKj9CQpmmux2jHkW9zVOm90UGTZS-0_i_snY5XUXWJ4M038) to guarantee easy access to water for everyone; In the meantime give people [Lifestraws](https://www.lifestraw.com/)
 
 
 [^1]: [Sources](https://joshuajohncohen.github.io/citations1.html)
