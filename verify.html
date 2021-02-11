@@ -1,0 +1,10 @@
+<script>
+const verify = x => ((((x-3*x/8-x/12-x/9)/6)%1)==0)&&(x%72==0)&&x>0;
+for (let i = 0;; i += 72) {
+  console.log(`${i} ${verify(i)?"works!":"does not work :("}`);
+  if (verify(i)) {
+    break;
+  }
+}
+console.log("Done!");
+</script>
